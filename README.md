@@ -4,9 +4,9 @@ Are you tired of clicking on websites' button repeatedly to add new offers to cr
 
 This browser extension will automate the process for you. One click and you are all set! 
 
-![Image](src)
-![Image](src)
-![Image](src)
+![Chrome](/coupon/chrome.svg)
+![Firefox](/coupon/firefox.svg)
+
 
 ### Support or Contact
 
